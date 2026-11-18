@@ -8,6 +8,7 @@ metadata:
   description: "Modelo do lab P2.1 (pipelines): a vitrine, sem workflow; publique a imagem no GHCR"
   annotations:
     github.com/project-slug: StaffOps-Mentoring/mentoria-pipeline-p2-1
+  tags: [go, docker, github-actions]
   links:
     - url: https://github.com/StaffOps-Mentoring/mentoria-pipeline-p2-1
       title: Repository
@@ -24,7 +25,7 @@ metadata:
   description: "Modelo do lab P2.1 (pipelines): a vitrine, sem workflow; publique a imagem no GHCR"
   annotations:
     github.com/project-slug: StaffOps-Mentoring/mentoria-pipeline-p2-1
-  tags: [go]
+  tags: [go, docker]
 spec:
   type: template
   lifecycle: production
